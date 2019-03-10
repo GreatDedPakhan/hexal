@@ -1,12 +1,12 @@
 @font-face { 
-	font-family:'Lato-Regular'; 
+	font-family:'Lato-Regular'; /*подключение шрифта Lato-Regular*/
 	src: url('assets/Lato-Regular.ttf'); 
 	font-weight: normal;
 	  
 	font-style: normal; 
 }
 @font-face { 
-	font-family:'MavenPro-Regular'; 
+	font-family:'MavenPro-Regular'; /*подключение шрифта MavenPro-Regular*/
 	src: url('assets/MavenPro-Regular.ttf'); 
 	font-weight: normal;
 	font-style: normal; 
